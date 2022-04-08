@@ -1,0 +1,30 @@
+2022-04-08 15:00:40.941  INFO 40684 --- [main] c.s.D.DisplayAllTimeZoneApplication      : Starting DisplayAllTimeZoneApplication using Java 17.0.2 on subhamk-mbp with PID 40684 (/Users/subhamk/Desktop/springBoot and Reactjs/DisplayAllTimeZone/target/classes started by subhamk in /Users/subhamk/Desktop/springBoot and Reactjs/DisplayAllTimeZone)
+2022-04-08 15:00:40.944  INFO 40684 --- [main] c.s.D.DisplayAllTimeZoneApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-04-08 15:00:41.566  INFO 40684 --- [main] c.s.D.DisplayAllTimeZoneApplication      : Started DisplayAllTimeZoneApplication in 1.349 seconds (JVM running for 2.035)
+2022-04-08 22:01:45.830  INFO 85427 --- [main] c.s.D.DisplayAllTimeZoneApplication      : Starting DisplayAllTimeZoneApplication using Java 17.0.2 on subhamk-mbp with PID 85427 (/Users/subhamk/Desktop/springBoot and Reactjs/DisplayAllTimeZone/target/classes started by subhamk in /Users/subhamk/Desktop/springBoot and Reactjs/DisplayAllTimeZone)
+2022-04-08 22:01:45.839  INFO 85427 --- [main] c.s.D.DisplayAllTimeZoneApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-04-08 22:01:47.326  INFO 85427 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-08 22:01:47.341  INFO 85427 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-08 22:01:47.341  INFO 85427 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-08 22:01:47.440  INFO 85427 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-08 22:01:47.441  INFO 85427 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1494 ms
+2022-04-08 22:01:47.819  INFO 85427 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-08 22:01:47.827  INFO 85427 --- [main] c.s.D.DisplayAllTimeZoneApplication      : Started DisplayAllTimeZoneApplication in 2.954 seconds (JVM running for 3.743)
+2022-04-08 23:08:12.091  INFO 94420 --- [main] c.s.D.DisplayAllTimeZoneApplication      : Starting DisplayAllTimeZoneApplication using Java 17.0.2 on subhamk-mbp with PID 94420 (/Users/subhamk/Desktop/springBoot and Reactjs/DisplayAllTimeZone/target/classes started by subhamk in /Users/subhamk/Desktop/springBoot and Reactjs/DisplayAllTimeZone)
+2022-04-08 23:08:12.105  INFO 94420 --- [main] c.s.D.DisplayAllTimeZoneApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-04-08 23:08:13.375  INFO 94420 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-08 23:08:13.391  INFO 94420 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-08 23:08:13.391  INFO 94420 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-08 23:08:13.507  INFO 94420 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-08 23:08:13.507  INFO 94420 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1181 ms
+2022-04-08 23:08:13.943  INFO 94420 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-08 23:08:13.954  INFO 94420 --- [main] c.s.D.DisplayAllTimeZoneApplication      : Started DisplayAllTimeZoneApplication in 2.647 seconds (JVM running for 3.499)
+2022-04-08 23:11:20.767  INFO 94835 --- [main] c.s.D.DisplayAllTimeZoneApplication      : Starting DisplayAllTimeZoneApplication using Java 17.0.2 on subhamk-mbp with PID 94835 (/Users/subhamk/Desktop/springBoot and Reactjs/DisplayAllTimeZone/target/classes started by subhamk in /Users/subhamk/Desktop/springBoot and Reactjs/DisplayAllTimeZone)
+2022-04-08 23:11:20.771  INFO 94835 --- [main] c.s.D.DisplayAllTimeZoneApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-04-08 23:11:21.950  INFO 94835 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-08 23:11:21.963  INFO 94835 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-08 23:11:21.964  INFO 94835 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-08 23:11:22.094  INFO 94835 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-08 23:11:22.095  INFO 94835 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1241 ms
+2022-04-08 23:11:22.495  INFO 94835 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-08 23:11:22.506  INFO 94835 --- [main] c.s.D.DisplayAllTimeZoneApplication      : Started DisplayAllTimeZoneApplication in 2.918 seconds (JVM running for 3.599)

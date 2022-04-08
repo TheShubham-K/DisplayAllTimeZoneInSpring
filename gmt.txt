@@ -1,5 +1,3 @@
-# Displayed world time zone in console using spring boot
-
 Time zones in UTC:
 (UTC+00:00) Africa/Abidjan
 (UTC+00:00) Africa/Accra
