@@ -3,23 +3,13 @@ package com.shubham.DisplayAllTimeZone;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-<<<<<<< HEAD
 import java.io.*;
-=======
-import java.io.FileNotFoundException;
-import java.io.PrintStream;
->>>>>>> e0e9b31 (init commit)
 import java.util.List;
-import java.util.Scanner;
 
 @SpringBootApplication
 public class DisplayAllTimeZoneApplication{
 
-<<<<<<< HEAD
 	public static void main(String[] args) throws IOException {
-=======
-	public static void main(String[] args) throws FileNotFoundException {
->>>>>>> e0e9b31 (init commit)
 		SpringApplication.run(DisplayAllTimeZoneApplication.class, args);
 
 		TimezoneDisplay display = new TimezoneDisplay();

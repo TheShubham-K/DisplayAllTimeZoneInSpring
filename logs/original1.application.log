@@ -1,3 +1,0 @@
-2022-04-08 15:00:40.941  INFO 40684 --- [main] c.s.D.DisplayAllTimeZoneApplication      : Starting DisplayAllTimeZoneApplication using Java 17.0.2 on subhamk-mbp with PID 40684 (/Users/subhamk/Desktop/springBoot and Reactjs/DisplayAllTimeZone/target/classes started by subhamk in /Users/subhamk/Desktop/springBoot and Reactjs/DisplayAllTimeZone)
-2022-04-08 15:00:40.944  INFO 40684 --- [main] c.s.D.DisplayAllTimeZoneApplication      : No active profile set, falling back to 1 default profile: "default"
-2022-04-08 15:00:41.566  INFO 40684 --- [main] c.s.D.DisplayAllTimeZoneApplication      : Started DisplayAllTimeZoneApplication in 1.349 seconds (JVM running for 2.035)
